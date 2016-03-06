@@ -4,3 +4,10 @@ cloud-config-server/.settings/org.eclipse.core.resources.prefs
 cloud-config-server/.settings/org.eclipse.jdt.core.prefs
 cloud-config-server/.settings/org.eclipse.m2e.core.prefs
 cloud-config-server/.settings/org.eclipse.wst.common.project.facet.core.xml
+cloud-config-client/.mvn/wrapper/maven-wrapper.jar
+cloud-config-client/.mvn/wrapper/maven-wrapper.properties
+cloud-config-client/.project
+cloud-config-client/.settings/org.eclipse.core.resources.prefs
+cloud-config-client/.settings/org.eclipse.jdt.core.prefs
+cloud-config-client/.settings/org.eclipse.m2e.core.prefs
+cloud-config-client/.settings/org.eclipse.wst.common.project.facet.core.xml
