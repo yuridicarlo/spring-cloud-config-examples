@@ -1,0 +1,6 @@
+.classpath
+cloud-config-server/.project
+cloud-config-server/.settings/org.eclipse.core.resources.prefs
+cloud-config-server/.settings/org.eclipse.jdt.core.prefs
+cloud-config-server/.settings/org.eclipse.m2e.core.prefs
+cloud-config-server/.settings/org.eclipse.wst.common.project.facet.core.xml
