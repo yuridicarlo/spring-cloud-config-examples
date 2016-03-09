@@ -1,5 +1,5 @@
 # spring-cloud-config-examples
-The two Spring projects included here serve are a Spring Cloud Config Server and a Spring Cloud Config Client, as described in the [Spring Cloud Config Documentation](http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html)
+The two Spring projects included here are a Spring Cloud Config Server and a Spring Cloud Config Client, as described in the [Spring Cloud Config Documentation](http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html)
 
 The configuration of the two projects serves as working example of using the Spring Cloud Config Server to externalize a client's configuration (like application.properties), and enable changes to that configuration at runtime, without having to restart/reload the client service. The mechanism works by utilizing the [Spring Cloud Bus](http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html#_push_notifications_and_spring_cloud_bus)
 
